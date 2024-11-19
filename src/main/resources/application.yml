@@ -1,0 +1,4 @@
+server:
+  port: 8080
+
+mindicator-url: https://mindicador.cl/api/uf
